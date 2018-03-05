@@ -1,0 +1,9 @@
+
+Policy: X.509 Basic
+  Matching identities
+  1) F1A476585EAD8DEC0A44565509D0A2DD61C7F820 "com.apple.idms.appleid.prd.487074613945556b61447a57504258316f7638336b773d3d"
+     1 identities found
+
+  Valid identities only
+  1) F1A476585EAD8DEC0A44565509D0A2DD61C7F820 "com.apple.idms.appleid.prd.487074613945556b61447a57504258316f7638336b773d3d"
+     1 valid identities found
